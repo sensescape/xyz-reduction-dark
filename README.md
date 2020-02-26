@@ -1,4 +1,4 @@
-### xyz studio lines dark map
+### xyz reduction dark map
 
 View the [xyz reduction dark map](https://sensescape.github.io/xyz-reduction-dark/).
 
